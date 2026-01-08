@@ -2,6 +2,13 @@
 
 A simple and elegant counter application built with Flutter. This app serves as a great starting point for anyone new to Flutter, demonstrating the basics of building a user interface and managing state.
 
+<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Frodydavis%2Fflutter_counter_app">
+  <img
+    height="32"
+    alt="Try in Firebase Studio"
+    src="https://cdn.firebasestudio.dev/btn/try_blue_32.svg">
+</a>
+
 ## 🚀 Features
 
 *   **Simple Counter:** A clean and intuitive interface with a floating action button to increment the counter.
@@ -16,13 +23,6 @@ A simple and elegant counter application built with Flutter. This app serves as 
 git clone https://github.com/rodydavis/flutter_counter_app.git
 cd flutter_counter_app
 ```
-<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Frodydavis%2Fflutter_counter_app">
-  <img
-    height="32"
-    alt="Try in Firebase Studio"
-    src="https://cdn.firebasestudio.dev/btn/try_blue_32.svg">
-</a>
-
 3.  **Install dependencies:**
 ```bash
 flutter pub get
