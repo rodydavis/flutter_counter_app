@@ -13,9 +13,16 @@ A simple and elegant counter application built with Flutter. This app serves as 
 1.  **Prerequisites:** Make sure you have the [Flutter SDK](https://flutter.dev/docs/get-started/install) installed.
 2.  **Clone the repository:**
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-folder
+git clone https://github.com/rodydavis/flutter_counter_app.git
+cd flutter_counter_app
 ```
+<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Frodydavis%2Fflutter_counter_app">
+  <img
+    height="32"
+    alt="Try in Firebase Studio"
+    src="https://cdn.firebasestudio.dev/btn/try_blue_32.svg">
+</a>
+
 3.  **Install dependencies:**
 ```bash
 flutter pub get
