@@ -36,7 +36,3 @@ flutter run
 
 *   [Flutter](https://flutter.dev/) - The UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 *   [Dart](https://dart.dev/) - The programming language used by Flutter.
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or find any bugs, please open an issue or submit a pull request.
